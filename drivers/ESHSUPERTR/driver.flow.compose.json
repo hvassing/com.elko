@@ -6,8 +6,10 @@
     "en": "Set Regulator %",
     "no": "Sett Regulator %"
   },
-
-
+  "titleFormatted": {
+    "en": "Set regulator to [[set_regulator]] on [[device]]",
+    "no": "Sett regulator til [[set_regulator]] for [[device]]"
+  },
   "args": [
     {
       "name": "device",
@@ -38,7 +40,11 @@
     "en": "Set Power Status",
     "no": "Skru Av/På termostat"
     },
-
+    "titleFormatted": {
+      "en": "Set Power Status to [[Power]] for [[device]]",
+      "no": "Skru [[Power]] termostaten [[device]]"
+    },
+  
 
     "args": [
         {
